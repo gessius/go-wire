@@ -4,8 +4,8 @@ import (
 	"errors"
 	"strconv"
 
-	. "github.com/tendermint/go-common"
-	"github.com/tendermint/go-wire"
+	. "github.com/intfoundation/go-common"
+	"github.com/intfoundation/go-wire"
 )
 
 type Byteful interface {

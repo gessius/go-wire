@@ -7,7 +7,7 @@ import (
 	"io"
 	"reflect"
 
-	. "github.com/tendermint/go-common"
+	. "github.com/intfoundation/go-common"
 )
 
 var ErrBinaryReadOverflow = errors.New("Error: binary read overflow")

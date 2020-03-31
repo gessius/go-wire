@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	. "github.com/tendermint/go-common"
+	. "github.com/intfoundation/go-common"
 )
 
 type SimpleStruct struct {

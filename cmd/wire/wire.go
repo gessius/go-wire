@@ -5,8 +5,8 @@ import (
 	"os"
 	"strings"
 
-	. "github.com/tendermint/go-common"
-	"github.com/tendermint/go-wire/expr"
+	. "github.com/intfoundation/go-common"
+	"github.com/intfoundation/go-wire/expr"
 )
 
 func main() {

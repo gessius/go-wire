@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	. "github.com/tendermint/go-common"
+	. "github.com/intfoundation/go-common"
 )
 
 func TestParse(t *testing.T) {

@@ -1,7 +1,7 @@
 package wire
 
 import (
-	"github.com/tendermint/go-logger"
+	"github.com/intfoundation/go-logger"
 )
 
 var log = logger.New("module", "binary")
